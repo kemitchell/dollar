@@ -6,7 +6,7 @@
   "repository": "git://github.com/pihvi/dollar",
   "version": "0.1.0",
   "main": "./lib/dollar.js",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "dependencies": {
     "request": "2.34.0",
     "jsdom": "0.10.3",
